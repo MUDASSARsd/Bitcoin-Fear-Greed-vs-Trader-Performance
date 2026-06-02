@@ -8,7 +8,7 @@ Files Used:
 Steps:
 1. Load datasets
 2. Clean data
-3. Merge on Date
+3. Merge on Date  
 4. Analyze PnL by sentiment
 5. Analyze Buy/Sell performance
 6. Calculate win rates
